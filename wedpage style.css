@@ -1,0 +1,22 @@
+.photo{
+    width: 150px;
+
+}
+.good{
+    text-align: right;
+    
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.all{
+    font-family: sans-serif;
+    background-color: darkgrey;
+}
+.text{
+justify-content: space-between;
+
+padding: 30px;
+margin: 0px;
+}
